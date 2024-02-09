@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Chegg As Subject Matter Expert<br>👯 I’m looking to collaborate on Project<br>🌱 I’m currently learning React Js<br> 
+🔭 I’m currently working on Chegg As Subject Matter Expert <br>👯 I’m looking to collaborate on Project<br>🌱 I’m currently learning React Js<br> 
 
 
 ## 🌐 Socials:
